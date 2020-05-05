@@ -1,0 +1,13 @@
+6
+a b # c ? d
+2
+a c
+a b lambda
+a d lambda
+b # 1
+# # 2
+# c lambda
+? c lambda
+? d lambda
+d ? 2
+d d 1
